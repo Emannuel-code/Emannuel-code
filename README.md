@@ -1,6 +1,6 @@
 ### Olá! Eu sou Emannuel-Code
 
-- 
-- 🌱 Eu estou estudando JavaScript
+- Desenvolvedor FRONT-END
+- 🌱 Eu estou cursando Análise e Desevolvimento de Sistemas estudando por fora HTML5|CSS3|JavaScript
 - 😄 Pronouns: ele/dele
 
