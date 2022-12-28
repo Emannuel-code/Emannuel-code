@@ -2,7 +2,9 @@
 
 - Desenvolvedor FRONT-END
 - 🌱 Eu estou estudando HTML5|CSS3|JavaScript
+- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
+
 
 ##
 
