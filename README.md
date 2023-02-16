@@ -1,6 +1,6 @@
 ### Olá! Eu sou Emannuel-Code
 
-- Desenvolvedor FRONT-END
+- 🔭 Desenvolvendo em Front-End com o objetivo de ser Desenvolvedor Web/Mobile
 - 🌱 Eu estou estudando HTML5|CSS3|JavaScript
 - 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas
 
@@ -22,10 +22,10 @@
 ##
 
 <div> 
-  <a href="(https://instagram.com/manew.dev?igshid=MTg0ZDhmNDA=)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/mannel.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:manel.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="(https://www.linkedin.com/in/emannuel-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-251b76226)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/emannuel-m-moura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
