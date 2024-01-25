@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://imgflip.com/gif/8dhixx](https://imgflip.com/gif/8dhixx)" />
+<img align="right" height="150" src="[https://imgflip.com/gif/8dhixx]([https://imgflip.com/gif/8dhixx](https://cdn.discordapp.com/attachments/1044797062543314997/1200150658465148978/8dhixx.gif?ex=65c52266&is=65b2ad66&hm=5cf2745d9ae48becc310847df55547c5c9ffd2e7462ffb7dc7bf3255e8235e3e&))" />
 
 ###
 
