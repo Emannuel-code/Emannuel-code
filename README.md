@@ -2,7 +2,7 @@
 
 <br/><br/>
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Emannuel-code&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
 </div>
 <hr/>
 
