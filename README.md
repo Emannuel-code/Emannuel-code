@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
   <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
-    <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Luk4x no momento" />
+    <img src="https://emannuel-code-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Manel no momento" />
   </a>
 </div>
 <hr/>
