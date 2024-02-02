@@ -1,12 +1,9 @@
-
-
 <br/><br/>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=Emannuel-code&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
 </div>
 <hr/>
-
-<img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
+<h1>Emannuel Desenvolvedor Front-End</h1>
 <img align="right" src="https://cdn.discordapp.com/attachments/1044797062543314997/1200162735472787687/projects-wallpaper.gif?ex=65c52da6&is=65b2b8a6&hm=7f7679794a592ea81c32a971dc97f769a9280c9975fbfb4bf7ee4d66abfe525a&" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
   <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
@@ -25,11 +22,10 @@
 </div>
 <hr/>
 
-<img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 <table align="right" height="255px">
   <tr>
-    <td align="center">
+    <td align="right">
       <a href="https://pt-br.reactjs.org/">
         <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
         <sub>
@@ -40,17 +36,7 @@
       </a>
     </td>
     <tr>
-    <td align="center">
-      <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
-        <sub>
-          <b>
-            <pre>Styled<br/>Components</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
+    <td align="right">
       <a href="https://expressjs.com/">
         <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
         <sub>
@@ -61,7 +47,7 @@
       </a>
     </td>
   <tr>
-    <td align="center">
+    <td align="right">
       <a href="https://nodejs.org/en">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br/>
         <sub>
@@ -71,7 +57,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="right">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
         <sub>
@@ -81,7 +67,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="right">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
         <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
         <sub>
@@ -93,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="right">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
         <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
         <sub>
@@ -103,7 +89,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="right">
       <a href="https://ohmyz.sh/">
         <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
         <sub>
@@ -113,7 +99,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="right">
       <a href="https://code.visualstudio.com/">
         <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
         <sub>
