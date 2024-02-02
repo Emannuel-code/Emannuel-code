@@ -24,29 +24,6 @@
 
 <img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 <table align="right" height="255px">
-  <tr>
-    <td align="right">
-      <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
-        <sub>
-          <b>
-            <pre>React.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <tr>
-    <td align="right">
-      <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
-        <sub>
-          <b>
-            <pre>Express.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  <tr>
     <td align="right">
       <a href="https://nodejs.org/en">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br/>
@@ -63,6 +40,17 @@
         <sub>
           <b>
             <pre>Javascript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <tr>
+    <td align="right">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <sub>
+          <b>
+            <pre>React.js</pre>
           </b>
         </sub>
       </a>
