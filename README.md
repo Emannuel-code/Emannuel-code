@@ -1,4 +1,4 @@
-<p align="center">I ❤️ solving problems. <br><br> For backend development using Node to frontend development using ReactJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack low-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solving problems. <br><br> I'm a full stack developer specializing in web development,<strong>using Node.js for the backend and ReactJS for the frontend</strong> and use them to create high quality solutions.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Emannuel-code&theme=gotham&mode=weekly" />
