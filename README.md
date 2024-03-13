@@ -1,103 +1,67 @@
-<br/><br/>
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Emannuel-code&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
-</div>
-<hr/>
-<h1>Emannuel Desenvolvedor Front-End</h1>
-<img align="right" src="https://cdn.discordapp.com/attachments/1044797062543314997/1200162735472787687/projects-wallpaper.gif?ex=65c52da6&is=65b2b8a6&hm=7f7679794a592ea81c32a971dc97f769a9280c9975fbfb4bf7ee4d66abfe525a&" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
-<ul>
-  <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
-  <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end.</li>
-  <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
-  <li>🇺🇸 Tenho inglês básico.</li>
-  <li>🎮 Curto jogar <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23null/overview?playlist=unrated&season=all" target="_blank">Valorant</a>  </li>
-  <li>
-  </li>
-</ul>
-<br/>
-<div align="center">
-  <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
-    <img src="https://Emannuel-code-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Manel no momento" />
-  </a>
-</div>
-<hr/>
+<p align="center">I ❤️ solving problems. <br><br> From backend development using Node to frontend development using ReactJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack low-level developer</strong> focused on web development.</p>&nbsp;
 
-<img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-<table align="right" height="255px">
-    <td align="right">
-      <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br/>
-        <sub>
-          <b>
-            <pre>Node.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Javascript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <tr>
-    <td align="right">
-      <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
-        <sub>
-          <b>
-            <pre>React.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
-        <sub>
-          <b>
-            <pre>CSS3</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
-        <sub>
-          <b>
-            <pre>HTML5</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://ohmyz.sh/">
-        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
-        <sub>
-          <b>
-            <pre>Terminal</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
-        <sub>
-          <b>
-            <pre>VSCode</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-</table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr/>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Emannuel-code&theme=gotham&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Emannuel-code&show_icons=true&theme=gotham&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
+
+
+## My Skills
+
+#### Main Stack:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node](https://img.shields.io/badge/Node%20js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=green)&nbsp;
+![Git](https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
+
+<img src="https://github.com/Emannuel-code/Emannuel-code/blob/main/assets/img/gif-github.gif?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif de um anime programando">
+
+#### Secondary Stack:
+![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=orange)&nbsp;
+
+
+#### Studying in this moment:
+
+![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=orange)&nbsp;
+![Next.js](https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+
+#### Databases:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=green)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-20232A?style=for-the-badge&logo=vscode&logoColor=blue)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-20232A?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=purple)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-20232A?style=for-the-badge&logo=trello&logoColor=blue)&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+### Contacts:
+
+<div> 
+<a href="https://www.instagram.com/mannel.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=FF1493">
+</a>
+<a href = "mailto:manel.310304@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/emannuel-m-moura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=blue"  target="_blank"></a> 
+<a href="http://api.whatsapp.com/?phone=75981565029&text=Olá,+Emannuel, vim pelo Github! Meu nome é [SEU NOME]" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-20232A?style=for-the-badge&logo=WhatsApp&logoColor=green"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=120&section=footer"/>
 
